@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Family</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+      body{
+background-color: aqua;   
+   }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center";>My Family </h1>
+   <p style="text-align:center";> <img src="h:\all image\family.jpg" alt="family"></p>
+    <h1 style="text-align: center";>My Father</h1>
+   <p style="text-align: center";> <img src="h:\all image\my father.jpg" alt="father" style="width:400px;" "height: 300px;"></p>
+    <p style="text-align: center;"> Md Abdul Malek Basunia</P>
+    <h2 style="text-align: center;">My Mothers</h2>
+    <p style="text-align: center;"><img src="h:\all image\my mom.jpg" alt="mom"></p>
+    <P style="text-align: center;"> Mrs Joshna Begum</P>
+    <h3 style="text-align: center;">My Brothers</h3>
+    <img src="h:\all image\my bro.jpg" alt="Brothers">
+<p>
+    <h1 style="text-align: center;">Md Juyel Basunia<h1/> <br><br></br>
+  <p style="text-align: center;"><img src="h:\all image\bro vai.jpg" alt="bro"></p>
+    <h1 style="text-align: center;">Md shohel Basunia</h1> <br><br></br>
+<p style="text-align: center;"><img src="h:\all image\shohel vai.jpg" alt="shohel"></p>
+  <h1 style="text-align: center;">  Md Shaeem Basunia</h1> <br><br></br>
+       <p style="text-align: center;"><img src="h:\all image\shameem.jpg" alt="shamim"></P>
+<h1 style="text-align: center;">    Md Morsalien Basunia
+</h1>  <br><br></br>
+      <p style="text-align: center;"><img src="h:\all image\my.jpg" alt="my"></p>
+<h2 style="text-align: center;">  Md Hamimul Islam</h2><br><br></br>
+             <p style="text-align: center;"><img src="h:\all image\hamim.jpg" alt="hamim"></p>
+  <h3 style="text-align: center;">  Md Naeem Basunia</h3><br><br></br>
+  <p style="text-align: center;"><img src="h:\all image\naeem.jpg" alt="naeem"></p>
+</body>
+</html>
